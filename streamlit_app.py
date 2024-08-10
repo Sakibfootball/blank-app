@@ -21,9 +21,5 @@ st.markdown(
 )
 
 st.button("STOP")
-
-
 st.button("PLAY")
-
-
 st.button("PAUSE")
