@@ -7,7 +7,7 @@ st.markdown(
     .custom-buttons {
         display: flex;
         flex-direction: column; /* Stack buttons vertically */
-        align-items: center; /* Center buttons horizontally */
+        # align-items: center; /* Center buttons horizontally */
     }
 
     .custom-buttons a {
