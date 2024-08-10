@@ -5,7 +5,8 @@ st.markdown(
     """
     <style>
     .custom-buttons button {
-        width: 50vw !important; 
+        width: 50vw !important;
+        margin: 10px !important;
         height: 10vh !important;
         background-color: #ADD8E6 !important; 
         color: white !important; 
