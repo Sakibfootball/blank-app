@@ -8,7 +8,7 @@ st.markdown(
         width: 50vw !important;
         margin: 10px !important;
         height: 10vh !important;
-        background-color: #ADD8E6 !important; 
+        background-color: #1E90FF !important; 
         color: white !important; 
         font-size: 1rem !important;
         border: none !important; 
