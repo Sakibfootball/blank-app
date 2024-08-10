@@ -3,7 +3,7 @@ import streamlit as st
 st.title("🎈 My new app")
 st.markdown(
     """<style>
-         button {
+         .button {
           width: 50vw; 
           height: 10vh; 
           background-color: #ADD8E6;
