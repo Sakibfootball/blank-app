@@ -43,9 +43,6 @@ st.markdown(
         <a href="https://www.google.com" target="_blank">
             <button id="button2">Proposal</button>
         </a>
-        # <a href="https://www.google.com" target="_blank">
-        #     <button id="button3">RFT</button>
-        # </a>
     </div>
     """,
     unsafe_allow_html=True
