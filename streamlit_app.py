@@ -4,7 +4,8 @@ st.title("🎈 My new app")
 st.markdown(
     """<style>
         .element-container:nth-of-type(3) button {
-            height: 3em;
+            height: 10em;
+            width: 40em
         }
         </style>""",
     unsafe_allow_html=True,
