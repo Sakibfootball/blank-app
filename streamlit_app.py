@@ -6,7 +6,7 @@ st.markdown(
     <style>
     button {
         width: 50vw !important; 
-        height: 50vh !important;
+        height: 10vh !important;
         background-color: #ADD8E6 !important; 
         color: white !important; 
         font-size: 2rem !important;
