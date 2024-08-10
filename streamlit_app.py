@@ -9,7 +9,7 @@ st.markdown(
         height: 10vh !important;
         background-color: #ADD8E6 !important; 
         color: white !important; 
-        font-size: 4rem !important;
+        font-size: 1rem !important;
         border: none !important; 
         border-radius: 10px !important; 
         cursor: pointer !important; 
