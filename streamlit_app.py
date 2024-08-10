@@ -1,6 +1,17 @@
 import streamlit as st
 
 st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+st.markdown(
+    """<style>
+        .element-container:nth-of-type(3) button {
+            height: 3em;
+        }
+        </style>""",
+    unsafe_allow_html=True,
 )
+
+st.button("STOP")
+
+st.button("PLAY")
+
+st.button("PAUSE")
