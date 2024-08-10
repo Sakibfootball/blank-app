@@ -1,5 +1,6 @@
 import streamlit as st
 
+st.title("MPS Monitoring System")
 st.markdown(
     """
     <style>
@@ -13,14 +14,14 @@ st.markdown(
         text-decoration: none; /* Remove underline from links */
         display: inline-block;
         width: 50vw !important; 
-        height: 20vh !important;
+        height: 10vh !important;
         margin-bottom: 20px !important;
     }
 
     .custom-buttons button {
         width: 100%; 
         height: 100%;
-        background-color: #1E90FF !important; /* Dodger Blue */
+        background-color: #3b778a !important; /* Dodger Blue */
         color: white !important; 
         font-size: 2rem !important;
         border: none !important; 
