@@ -38,14 +38,14 @@ st.markdown(
 
     <div class="custom-buttons">
         <a href="https://www.google.com" target="_blank">
-            <button id="button1">Go to Example 1</button>
+            <button id="button1">EOI</button>
         </a>
         <a href="https://www.google.com" target="_blank">
-            <button id="button2">Go to Example 2</button>
+            <button id="button2">Proposal</button>
         </a>
-        <a href="https://www.google.com" target="_blank">
-            <button id="button3">Go to Example 3</button>
-        </a>
+        # <a href="https://www.google.com" target="_blank">
+        #     <button id="button3">RFT</button>
+        # </a>
     </div>
     """,
     unsafe_allow_html=True
