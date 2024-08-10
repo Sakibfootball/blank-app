@@ -5,10 +5,10 @@ st.markdown(
     """<style>
         .element-container:nth-of-type(3) button {
             width: 50vw; /* 50% of the viewport width */
-              height: 50vh; /* 50% of the viewport height */
-          background-color: #4CAF50; /* Green background */
+              height: 10vh; /* 50% of the viewport height */
+          background-color: #ADD8E6; /* Green background */
       color: white; /* White text color */
-      font-size: 2rem; /* Font size */
+      font-size: 6rem; /* Font size */
       border: none; /* Remove border */
       border-radius: 10px; /* Rounded corners */
       display: flex; /* Flexbox to center content */
