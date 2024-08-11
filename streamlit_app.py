@@ -37,11 +37,14 @@ st.markdown(
     </style>
 
     <div class="custom-buttons">
-        <a href="https://www.google.com" target="_blank">
-            <button id="button1">EOI</button>
+        <a href="https://docs.google.com/document/d/1_kP1ZmlxJvEPXcC_KDG1TjvPAMtFX_aJ3jsZAM5HXJs/edit?usp=sharing" target="_blank">
+            <button id="button1">BDU Status</button>
         </a>
         <a href="https://www.google.com" target="_blank">
-            <button id="button2">Proposal</button>
+            <button id="button2">Sub. EOI</button>
+        </a>
+        <a href="https://www.google.com" target="_blank">
+            <button id="button3">Sub. Proposal</button>
         </a>
     </div>
     """,
