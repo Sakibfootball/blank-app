@@ -21,9 +21,9 @@ st.markdown(
     .custom-buttons button {
         width: 100%; 
         height: 100%;
-        background-color: #3b778a !important; /* Dodger Blue */
+        background-color: #2A3675 !important;
         color: white !important; 
-        font-size: 2rem !important;
+        font-size: 1rem !important;
         border: none !important; 
         border-radius: 10px !important; 
         cursor: pointer !important; 
@@ -31,7 +31,7 @@ st.markdown(
     }
     
     .custom-buttons button:hover {
-        background-color: #1C86EE !important; /* Slightly darker Dodger Blue */
+        background-color: #EE0909 !important; /* Slightly darker Dodger Blue */
         transform: scale(1.05) !important;
     }
     </style>
